@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
           children: [
             HorizontalDrag(),
             Divider(),
-//VerticalDrag(),
+            VerticalDrag(),
           ],
         ),
       ),

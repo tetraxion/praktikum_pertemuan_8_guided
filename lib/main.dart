@@ -56,7 +56,7 @@ class _HorizontalDragState extends State<HorizontalDrag> {
         });
       },
       child: Container(
-        color: Colors.grey,
+        color: Colors.yellow,
         child: Center(
           child: Transform.translate(
             offset: _move,
